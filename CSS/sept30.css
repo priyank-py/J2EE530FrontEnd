@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    /* font-family: 'Turret Road', cursive; */
+}
+
+
+.container{
+    /* display: flex; */
+}
+
+.box{
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 33.3%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#box1{
+    font-family:  'Turret Road', cursive; 
+}
+
+img{
+    border-radius: 50%;
+}

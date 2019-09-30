@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    /* font-family: 'Turret Road', cursive; */
+    font-family: 'Lobster', cursive;
+}
+
+td{
+    border: 2px solid #ccc;
+    height: 250px;
+    width: 100px;
+    text-align: center;
+}
+
+tr{
+    display: block;
+    position: absolute;
+    left: 15%;
+}
+
+#one{
+    background-color: #1abc9c;
+    transition: 500ms;
+}
+
+#two{
+    background-color: #34495e;
+    transition: 500ms;
+}
+
+#three{
+    background-color: #7f8c8d;
+    transition: 500ms;
+}
+
+#four{
+    background-color: #f39c12;
+    transition: 500ms;
+}
+
+#five{
+    background-color: #c0392b;
+    transition: 500ms;
+}
+
+#one:hover{
+    background-color: #c0392b; 
+}
+
+#two:hover{
+    background-color:  #f39c12;
+}
+
+#three:hover{
+    background-color: #1abc9c;
+}
+
+#four:hover{
+    background-color: #34495e;
+}
+
+#five:hover{
+    background-color: #7f8c8d;
+}
