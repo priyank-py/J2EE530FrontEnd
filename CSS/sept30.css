@@ -28,3 +28,8 @@ body{
 img{
     border-radius: 50%;
 }
+#twitter{
+    position: fixed;
+    left:0;
+    top: 50%;
+}

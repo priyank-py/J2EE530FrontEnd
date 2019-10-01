@@ -4,6 +4,19 @@ h1{
     font-family: 'Lobster', cursive;
 }
 
+h1 a{
+    color: #000;
+    transition: 450ms;
+}
+
+h1 a:visited{
+    color: #1abc9c;
+}
+
+h1 a:active{
+    color: #f1c40f;
+}
+
 td{
     border: 2px solid #ccc;
     height: 250px;
@@ -18,31 +31,39 @@ tr{
 }
 
 #one{
+    
     background-color: #1abc9c;
     transition: 500ms;
+    transition-timing-function: cubic-bezier(0,-0.5, 1,-0.7);
 }
 
 #two{
+
     background-color: #34495e;
     transition: 500ms;
+    transition-timing-function: cubic-bezier(0,-0.5, 1,-0.7);
 }
 
 #three{
     background-color: #7f8c8d;
     transition: 500ms;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1)
 }
 
 #four{
     background-color: #f39c12;
     transition: 500ms;
+    transition-timing-function: cubic-bezier(0,-0.5, 1,-0.7);
 }
 
 #five{
     background-color: #c0392b;
     transition: 500ms;
+    transition-timing-function: cubic-bezier(0,-0.5, 1,-0.7);
 }
 
 #one:hover{
+    transform: translate(-50%, 50%);
     background-color: #c0392b; 
 }
 
