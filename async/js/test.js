@@ -26,6 +26,9 @@ getTodos('https://jsonplaceholder.typicode.com/todos/1').then((data) => {
     return getTodos('https://jsonplaceholder.typicode.com/todos/3')
 }).then((data) => {
     console.log('after that we got', data)
+    return getTodos('https://jsonplaceholder.typicode.com/todos/4')
+}).then((data) => {
+    console.log('this is the 3rd data', data)
 }).catch((err) => {
     console.log(err)
 })
