@@ -1,0 +1,14 @@
+{
+    "books": [
+        {
+            "name": "The Adventures of Huckleberry Finn",
+            "synopsis": "Adventures of Huckleberry Finn (or, in more recent editions, The Adventures of Huckleberry Finn) is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry 'Huck' Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer.",
+            "writer": "Mark Twain"
+        },
+        {
+            "name": "The Robin Hood",
+            "synopsis": "The Merry Adventures of Robin Hood of Great Renown in Nottinghamshire is an 1883 novel by the American illustrator and writer Howard Pyle. Consisting of a series of episodes in the story of the English outlaw Robin Hood and his band of Merry Men, the novel compiles traditional material into a coherent narrative in a colorful, invented 'old English' idiom that preserves some flavor of the ballads, and adapts it for children. The novel is notable for taking the subject of Robin Hood, which had been increasingly popular through the 19th century, in a new direction that influenced later writers, artists, and filmmakers through the next century.",
+            "writer": "Howard Pyne"
+        }
+    ]
+}
